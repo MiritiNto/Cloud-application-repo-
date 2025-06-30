@@ -1,2 +1,2 @@
-# Cloud-application-repo-
-Sample repository for GitHub assignment
+# GitHub Assignment
+This repository contains sample files uploaded using Git Bash.
